@@ -52,6 +52,6 @@ The simulation follows these core rules for every asset you select in the holdin
 
 ## 🤝 Contribution
 
-This was developed as part of an technical internship assignment, focusing on high-performance React patterns, clean Tailwind V4 styling, and precise financial calculations.
+This was developed as a professional Tax Loss Harvesting tool, focusing on high-performance React patterns, clean Tailwind V4 styling, and precise financial calculations.
 
 ---
