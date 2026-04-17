@@ -50,8 +50,4 @@ The simulation follows these core rules for every asset you select in the holdin
 - **Currency**: The tool currently standardizes on **₹ (INR)** / **$ (USD)** depending on the chosen configuration, using the Indian numbering system formatting (`en-IN`).
 - **Realized vs Unrealized**: The tool assumes "Holding" data points represent unrealized positions that are candidates for sale to achieve the tax harvest.
 
-## 🤝 Contribution
-
-This was developed as a professional Tax Loss Harvesting tool, focusing on high-performance React patterns, clean Tailwind V4 styling, and precise financial calculations.
-
 ---
