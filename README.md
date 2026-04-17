@@ -49,5 +49,4 @@ The simulation follows these core rules for every asset you select in the holdin
 - **Mock Data**: For demonstration purposes, this tool uses a local mock API (`src/api/mockApi.js`).
 - **Currency**: The tool currently standardizes on **₹ (INR)** / **$ (USD)** depending on the chosen configuration, using the Indian numbering system formatting (`en-IN`).
 - **Realized vs Unrealized**: The tool assumes "Holding" data points represent unrealized positions that are candidates for sale to achieve the tax harvest.
-
 ---
